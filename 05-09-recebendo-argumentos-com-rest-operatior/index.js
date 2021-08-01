@@ -1,4 +1,4 @@
-function createUser(name, age, ...contacts) {
+function createUser(name,age, ...contacts) { 
   return {
     name,
     age,
